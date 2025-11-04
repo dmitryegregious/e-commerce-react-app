@@ -7,7 +7,7 @@
 
 ## Деплой
 
-https://flourishing-tartufo-ae4f52.netlify.app/
+https://vozmissoboj.netlify.app
 
 ## Функционал
 
