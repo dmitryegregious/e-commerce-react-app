@@ -25,6 +25,7 @@ const App = () => {
   const { isLoading, products } = useSelector((state: RootState) => state.product);
   const isDataLoaded = !isLoading && products.length > 0;
 
+  
   const routes = useRoutes([
     {
       path: PATHS.showcase,
